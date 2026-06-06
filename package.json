@@ -1,0 +1,13 @@
+{
+  "name": "ponder-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ponder start",
+    "dev": "ponder dev"
+  },
+  "dependencies": {
+    "@ponder/core": "0.4.34",
+    "viem": "^2.0.0"
+  }
+}
